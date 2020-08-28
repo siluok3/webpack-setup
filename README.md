@@ -1,0 +1,1 @@
+An example webpack configuration for React projects using babel, css loaders and the html webpack plugin
